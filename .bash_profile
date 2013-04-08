@@ -1,5 +1,5 @@
 # Prettify my prompt
-export PS1="\u@\h:\w \$ "
+export PS1="\u@\h:\w \\$ "
 
 # Useful aliases
 alias hosts='sudo vi /etc/hosts'
