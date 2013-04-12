@@ -7,5 +7,7 @@ export EDITOR="vi"
 # Useful aliases
 alias hosts='sudo vi /etc/hosts'
 alias ls='ls -G'
+alias top='top -o cpu'
 # Use this to determine if your webserver properly compresses content
 alias curlgz='curl -H "Accept-Encoding: gzip,deflate"'
+
