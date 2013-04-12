@@ -4,6 +4,7 @@ colorscheme elflord
 set number
 set expandtab
 set tabstop=2
+set ai sw=2
 
 " Case-insensitive search unless capitalised
 set ignorecase
