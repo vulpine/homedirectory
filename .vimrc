@@ -1,6 +1,9 @@
+" Enable Pathogen
+execute pathogen#infect()
+
 " Appearance and visual style
 syntax on
-colorscheme elflord
+colorscheme torte
 set number
 set expandtab
 set tabstop=2
