@@ -8,9 +8,9 @@ set tabstop=2
 set shiftwidth=2
 set nu
 set ai sw=2
-" Show tabs as arrows
+" Show tabs as arrows, and trailing whitespace as pips
 set list
-set listchars=tab:\→\ 
+set listchars=tab:\→\ ,trail:· 
 
 let g:syntastic_enable_signs=1
 let g:syntastic_check_on_open=1
